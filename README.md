@@ -1,4 +1,5 @@
 # Box-Shooter
 A Unity 3D FPS Game
 
-https://ysd98.github.io/Box-Shooter/
+[![Box](https://img.shields.io/badge/Play_Game-ADFF2F?style=flat)](https://ysd98.github.io/Box-Shooter/)
+
